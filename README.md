@@ -6,3 +6,4 @@ This repo contains mainly a simple Jenkinsfile
 
 hello ocean
 20250222
+direct commit
